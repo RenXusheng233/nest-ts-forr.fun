@@ -347,46 +347,6 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@hapi/address@^4.0.1":
-  version "4.1.0"
-  resolved "https://registry.npm.taobao.org/@hapi/address/download/@hapi/address-4.1.0.tgz#d60c5c0d930e77456fdcde2598e77302e2955e1d"
-  integrity sha1-1gxcDZMOd0Vv3N4lmOdzAuKVXh0=
-  dependencies:
-    "@hapi/hoek" "^9.0.0"
-
-"@hapi/formula@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.npm.taobao.org/@hapi/formula/download/@hapi/formula-2.0.0.tgz#edade0619ed58c8e4f164f233cda70211e787128"
-  integrity sha1-7a3gYZ7VjI5PFk8jPNpwIR54cSg=
-
-"@hapi/hoek@^9.0.0":
-  version "9.1.1"
-  resolved "https://registry.npm.taobao.org/@hapi/hoek/download/@hapi/hoek-9.1.1.tgz#9daf5745156fd84b8e9889a2dc721f0c58e894aa"
-  integrity sha1-na9XRRVv2EuOmImi3HIfDFjolKo=
-
-"@hapi/joi@^17.1.1":
-  version "17.1.1"
-  resolved "https://registry.npm.taobao.org/@hapi/joi/download/@hapi/joi-17.1.1.tgz?cache=0&sync_timestamp=1603524515155&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Fjoi%2Fdownload%2F%40hapi%2Fjoi-17.1.1.tgz#9cc8d7e2c2213d1e46708c6260184b447c661350"
-  integrity sha1-nMjX4sIhPR5GcIxiYBhLRHxmE1A=
-  dependencies:
-    "@hapi/address" "^4.0.1"
-    "@hapi/formula" "^2.0.0"
-    "@hapi/hoek" "^9.0.0"
-    "@hapi/pinpoint" "^2.0.0"
-    "@hapi/topo" "^5.0.0"
-
-"@hapi/pinpoint@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.npm.taobao.org/@hapi/pinpoint/download/@hapi/pinpoint-2.0.0.tgz#805b40d4dbec04fc116a73089494e00f073de8df"
-  integrity sha1-gFtA1NvsBPwRanMIlJTgDwc96N8=
-
-"@hapi/topo@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.npm.taobao.org/@hapi/topo/download/@hapi/topo-5.0.0.tgz#c19af8577fa393a06e9c77b60995af959be721e7"
-  integrity sha1-wZr4V3+jk6BunHe2CZWvlZvnIec=
-  dependencies:
-    "@hapi/hoek" "^9.0.0"
-
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.npm.taobao.org/@istanbuljs/load-nyc-config/download/@istanbuljs/load-nyc-config-1.1.0.tgz?cache=0&sync_timestamp=1589989512407&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40istanbuljs%2Fload-nyc-config%2Fdownload%2F%40istanbuljs%2Fload-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
@@ -815,11 +775,6 @@
   integrity sha1-T/n2QafG0aNQj/iLwxQbFSdy51M=
   dependencies:
     "@types/node" "*"
-
-"@types/hapi__joi@^17.1.6":
-  version "17.1.6"
-  resolved "https://registry.npm.taobao.org/@types/hapi__joi/download/@types/hapi__joi-17.1.6.tgz#b84663676aa9753c17183718338dd40ddcbd3754"
-  integrity sha1-uEZjZ2qpdTwXGDcYM43UDdy9N1Q=
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0", "@types/istanbul-lib-coverage@^2.0.1":
   version "2.0.3"
